@@ -1,0 +1,6 @@
+*.log
+*.o
+*.so
+*.h
+Makefile
+
